@@ -26,3 +26,7 @@ En terminal:
 
 ```bash
 git init
+
+# Prueba de Escritorio AVL
+
+![AVL](img/avl_prueba_escritorio.png)
